@@ -8,6 +8,7 @@ I was given two prompts, screen shots of what we were to recreate with the follo
  - try out working with Javascript to interact with the DOM
 
 I practiced using semantic HTML over divs to create a structured HTML page that can be used with multiple css pages.
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Original image prompts: 
@@ -23,3 +24,5 @@ The Things I did:
 =======
 Attached are the original image prompts and what I have created.
 >>>>>>> 26c8bc94b421a413aa03ddaf51f75b0c943a2a10
+=======
+>>>>>>> bb3b52ee074b849e5faf8015bc5289f39aa32ea5
