@@ -8,3 +8,14 @@ I was given two prompts, screen shots of what we were to recreate with the follo
  - try out working with Javascript to interact with the DOM
 
 I practiced using semantic HTML over divs to create a structured HTML page that can be used with multiple css pages.
+
+Original image prompts: 
+
+[Dog Party Comp 1](prompt_images/zen-garden-01.jpg)
+[Dog Party Comp 2](prompt_images/zen-garden-02.jpg)
+
+The Things I did:
+
+[Dog Party Comp 1](prompt_images/comp_1.jpg)
+[Dog Party Comp 2](prompt_images/comp_2.jpg)
+
