@@ -18,8 +18,8 @@ Original image prompts:
 
 The Things I did:
 
-![Dog Party Comp 1](prompt_images/comp_1.jpg)
-![Dog Party Comp 2](prompt_images/comp_2.jpg)
+![Dog Party Comp 1](prompt_images/comp_1.png)
+![Dog Party Comp 2](prompt_images/comp_2.png)
 
 =======
 Attached are the original image prompts and what I have created.
