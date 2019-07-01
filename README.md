@@ -13,13 +13,13 @@ I practiced using semantic HTML over divs to create a structured HTML page that 
 <<<<<<< HEAD
 Original image prompts: 
 
-[Dog Party Comp 1](prompt_images/zen-garden-01.jpg)
-[Dog Party Comp 2](prompt_images/zen-garden-02.jpg)
+![Dog Party Comp 1](prompt_images/zen-garden-01.jpg)
+![Dog Party Comp 2](prompt_images/zen-garden-02.jpg)
 
 The Things I did:
 
-[Dog Party Comp 1](prompt_images/comp_1.jpg)
-[Dog Party Comp 2](prompt_images/comp_2.jpg)
+![Dog Party Comp 1](prompt_images/comp_1.jpg)
+![Dog Party Comp 2](prompt_images/comp_2.jpg)
 
 =======
 Attached are the original image prompts and what I have created.
