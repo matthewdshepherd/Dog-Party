@@ -1,0 +1,241 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+* {
+	font-family: 'Roboto Slab', serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+.body {
+	background-color: #ffffff;
+}
+/*----------- NAV dog-header ------------*/
+.dog-header {
+	height: 100%;
+	width: 160px;
+	background-color: #9A969C;
+	position: fixed;
+	z-index: 1;
+  	top: 0; 
+  	left: 0;
+}
+
+.dog-header-logo {
+	width: 120px;
+	margin: 4px 20px;
+}
+
+nav ul {
+	list-style: none;
+	padding: 0px;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+nav ul li {
+	text-align: left;
+	margin-top: 60px;
+}
+
+/*--------- name-dog -------------*/
+
+.name-dog{
+	background-color: #3E3544;
+	padding: 0px;
+	margin-left: 160px;
+	height: 373px
+}
+
+.name-dog-pics {
+	float: left;
+	height: 330px;
+	margin: 25px 0px 25px 50px;
+	border-radius: 50%;
+	border:5px solid #9A969C;
+	
+}
+
+.name-dog-heading {
+	position: absolute;
+	top: 70px;
+  	left: 650px;
+	font-size: 39px;
+	font-weight: 100;
+	color: #ffffff;
+	margin-bottom: 20px;
+}
+
+.name-dog-form {
+	position: absolute;
+	top: 110px;
+  	left: 650px;
+	display: inline-block;
+	margin-top: 20px
+	margin-bottom: 50px;
+	width: 38%;
+	max-width: 450px;
+	min-width: 300px;
+}
+
+.name-dog-title {
+	float: left;
+	display: block;
+	color: #ffffff;
+	font-weight: 300;
+	font-size: 20px;
+	margin-top: 45px;
+	margin-bottom: 5px;
+}
+
+.name-dog-input-field {
+	display: block;
+	text-align: center;
+	height: 50px;
+	width: 100%;
+	font-size: 1.25em;
+	border-radius: 3px;
+	border:1px solid black;
+	margin-top: 20px;
+
+}
+
+.name-dog-button1 {
+	display: block;
+	background-color: #9A969C;
+	font-size: 20px;
+	height: 50px;
+	width: 100%;
+	border-radius: 3px;
+	border:1px solid #9A969C;
+	margin-top: 20px;
+	margin-right: 20%;
+}
+
+/*---------- Main dog-cards ---------------*/
+
+.dog-cards {
+	margin: 0px 0px 0px 160px;
+}
+
+.dog-card-art {
+	margin-bottom: 40px;
+	width: 100%;
+	/*border-bottom: 2px solid #9A969C;*/
+	padding-bottom: 17px;
+}
+
+.dog-card-art:after {
+    content: ""; /* This is necessary for the pseudo element to work. */ 
+    display: block; /* This will put the pseudo element on its own line. */
+    margin: 0 auto; /* This will center the border. */
+    width: 90%; /* Change this to whatever width you want. */
+    padding-top: 20px; /* This creates some space between the element and the border. */
+    border-bottom: 1px solid #9A969C; /* This creates the border. Replace black with whatever color you want. */
+}
+
+.bottom-art:after {
+	border-bottom: none;
+	/*padding-bottom: 5px;*/
+}
+
+.dog-card-heading {
+	margin-left: 60px;
+    margin-top: 10px;
+}
+
+.dog-card-art-pics {
+	height: 200px;
+	margin: 15px 30px;
+	border-radius: 50%;
+	border:5px solid #9A969C;
+}
+
+.dog-card-container{
+	display: block;
+	float: right;
+	margin-right: 10%;
+	width: 60%;
+	max-width: 700px;
+	min-width: 300px;
+}
+
+.dog-card-art-para{
+	font-weight:100;
+	font-size: 22px;
+	margin-top: 15px;
+}
+
+.dog-card-art-button {
+	float: right;
+	background-color: #3E3544;
+	color: #ffffff;
+	font-size: 20px;
+	height: 50px;
+	width: 200px;
+	border-radius: 3px;
+	border:1px solid #3E3544;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/*---------- footer ----------*/
+
+.footer {
+	background-color: #3E3544;
+	margin-left: 160px;
+	height: 180px;
+}
+
+.footer-text {
+	font-size: 25px;
+	color: #ffffff;
+	float: left;
+	margin-right: 20px;
+	margin-left: 50%;
+	margin-top: 20px;
+}
+
+.footer-logo-holder {
+	float: left;
+	margin-right: 40px;
+	margin-top: 10px;
+}
+
+.bottom {
+	padding-left: 6%
+}
+
+.footer-logo-links{
+	margin: 10px;
+}
+
+/*@media (max-width: 320px){
+
+	nav {
+	float: right;
+	display: inline-block;
+	}
+
+	nav ul {
+	list-style: none;
+		padding: 0px;
+}
+
+	nav ul li {
+	display: inline-block;
+	margin: 21px 15px 21px 5px;
+	}
+
+	.dog-header {
+		height: 100px;
+		width: 100%;
+		position: none;
+	}
+	.dog-header-logo{
+		width: 30px;
+	}
+}*/
