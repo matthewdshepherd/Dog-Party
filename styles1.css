@@ -171,6 +171,10 @@ footer {
 	 margin-top: 20px;
 }
 
+.footer-logo-holder-logos{
+	display: inline-block;
+}
+
 
 @media (max-width: 600px){
 
