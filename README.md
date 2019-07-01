@@ -8,3 +8,5 @@ I was given two prompts, screen shots of what we were to recreate with the follo
  - try out working with Javascript to interact with the DOM
 
 I practiced using semantic HTML over divs to create a structured HTML page that can be used with multiple css pages.
+
+Attached are the original image prompts and what I have created.
